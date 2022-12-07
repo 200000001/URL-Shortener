@@ -2,4 +2,4 @@
 
 [Smilegate] 2022 윈터데브캠프 1인 프로젝트
 
-https://github.com/200000001/URL-Shortener/files/10174184/1._ReCoder_.pdf)
+![image](https://user-images.githubusercontent.com/90817465/206130316-c7c674d6-0994-4e4a-9139-75aa8ed3bed4.png)
