@@ -1,3 +1,6 @@
+// mongoDB 접속
+// dotenv로 환경변수 가져옴
+
 import * as express from 'express'
 import { Application } from 'express'
 import * as mongoose from 'mongoose';
