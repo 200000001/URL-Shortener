@@ -1,10 +1,10 @@
 {
-  "name": "URL-Shortener",
+  "name": "url-shortener",
   "version": "1.0.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/200000001/URL-Shortener.git"
+    "url": "git+https://github.com/200000001/url-shortener.git"
   },
   "dependencies": {
     "@types/express": "^4.17.15",
