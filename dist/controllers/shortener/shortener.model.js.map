@@ -1,0 +1,1 @@
+{"version":3,"file":"shortener.model.js","sourceRoot":"","sources":["../../../src/controllers/shortener/shortener.model.ts"],"names":[],"mappings":";;AAAA,qCAAoC;AAGpC,MAAM,eAAe,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IACxC,OAAO,EAAE,MAAM;IACf,QAAQ,EAAE,MAAM;CACnB,CAAC,CAAA;AAEF,MAAM,cAAc,GAAG,QAAQ,CAAC,KAAK,CAAiC,WAAW,EAAE,eAAe,CAAC,CAAC;AAEpG,kBAAe,cAAc,CAAC"}
