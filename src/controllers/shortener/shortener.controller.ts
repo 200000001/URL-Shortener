@@ -21,7 +21,7 @@ class ShortenerController implements IControllerBase {
         this.router.get('/:shortcode', this.get)
         this.router.post('/create', this.create)
     }
-
+// 랜덤 url 생성
     private generateRandomUrl(length: Number) {
 
         const possibleChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
@@ -34,12 +34,12 @@ class ShortenerController implements IControllerBase {
             
         return urlChars;
     }
-
+// 인덱스 페이지 비동기 방식 표시
     index = async(req: Request, res: Response) => {
 
         res.render('home/index')
     }
-
+// shortURL 정보 확인
     get = async(req: Request, res: Response) => {
         
         const { shortcode } = req.params
@@ -56,7 +56,7 @@ class ShortenerController implements IControllerBase {
             res.render('home/not-found')
         }
     }
-
+// longURL 비동기 방식 단축
     create = async(req: express.Request, res: express.Response) => {
 
         const { url } = req.body
