@@ -1,3 +1,5 @@
+// mongoDB 스키마 생성
+
 import * as mongoose from 'mongoose'
 import IShortener from './shortener.interface'
 
