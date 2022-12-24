@@ -1,3 +1,5 @@
+// mongoDB long URL 삽입
+
 import * as express from 'express'
 import { Request, Response } from 'express'
 import IControllerBase from 'interfaces/IControllerBase.interface'
